@@ -4,6 +4,7 @@ Documenting the full concept of the C programming language is a substantial task
 
 # C Programming Language Documentation
 
+
 ## Table of Contents
 
 1. **Introduction**

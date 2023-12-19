@@ -2,6 +2,7 @@
 
 Documenting the full concept of the C programming language is a substantial task and typically involves a comprehensive guide or book. However, I can provide you with a brief overview of the fundamental concepts of the C language. Please note that this is not an exhaustive documentation, but a concise introduction:
 
+
 # C Programming Language Documentation
 
 ## Table of Contents

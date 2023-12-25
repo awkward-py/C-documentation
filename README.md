@@ -10,7 +10,7 @@ Documenting the full concept of the C programming language is a substantial task
     - History of C
     - Characteristics of C
     - Why Learn C?
-
+      
 2. **Basic Structure of a C Program**
     - Comments
     - Directives

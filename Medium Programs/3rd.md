@@ -109,5 +109,3 @@ int main() {
 **Explanation:**
 - `isPrime(int num)`: A function to check if a number is prime.
 - `for (int i = 2; i <= num / 2; ++i)`: Loop to check divisibility from 2 to num/2.
-
-Feel free to use and modify these medium-level examples to enhance your understanding of C programming!

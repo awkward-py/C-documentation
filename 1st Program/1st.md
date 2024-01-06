@@ -1,3 +1,18 @@
+```c
+// AwkwardPy - A Simple C Program
+
+#include <stdio.h>
+
+// The main function where the program starts
+int main() {
+    // Print a warm welcome message
+    printf("Hello, AwkwardPy! You just created your first C program.\n");
+
+    // Return 0 to indicate successful execution
+    return 0;
+}
+```
+
 Explanation:
 
 - `#include <stdio.h>`: This line includes the standard input/output library, allowing us to use functions like `printf` to display messages.

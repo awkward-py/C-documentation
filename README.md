@@ -7,84 +7,85 @@ Documenting the full concept of the C programming language is a substantial task
 ## Table of Contents
 
 1. **Introduction**
+   
     - History of C
     - Characteristics of C
     - Why Learn C?
       
-2. **Basic Structure of a C Program**
+3. **Basic Structure of a C Program**
     - Comments
     - Directives
     - Functions
     - Statements and Expressions
 
-3. **Data Types and Variables**
+4. **Data Types and Variables**
     - Basic Data Types
     - Declarations and Initialization
     - Constants
     - Storage Classes
 
-4. **Operators**
+5. **Operators**
     - Arithmetic Operators
     - Relational Operators
     - Logical Operators
     - Assignment Operators
     - Bitwise Operators
 
-5. **Control Flow Statements**
+6. **Control Flow Statements**
     - Conditional Statements (if, else, switch)
     - Looping Statements (for, while, do-while)
     - Jump Statements (break, continue, goto)
 
-6. **Functions**
+7. **Functions**
     - Function Declaration and Definition
     - Function Prototypes
     - Recursion
     - Passing Arguments to Functions
 
-7. **Arrays**
+8. **Arrays**
     - Declaration and Initialization
     - Multidimensional Arrays
     - Array Manipulation
 
-8. **Pointers**
+9. **Pointers**
     - Introduction to Pointers
     - Pointer Arithmetic
     - Pointers and Arrays
     - Pointers and Functions
 
-9. **Structures and Unions**
+10. **Structures and Unions**
     - Defining Structures
     - Accessing Structure Members
     - Nested Structures
     - Unions
 
-10. **File Handling**
+11. **File Handling**
     - File Input/Output
     - File Operations (fopen, fclose, fread, fwrite)
     - Error Handling
 
-11. **Dynamic Memory Allocation**
+12. **Dynamic Memory Allocation**
     - malloc, calloc, realloc, free
     - Memory Leak Prevention
     - Common Pitfalls
 
-12. **Preprocessor Directives**
+13. **Preprocessor Directives**
     - Macros
     - Conditional Compilation
     - File Inclusion
 
-13. **Advanced Topics**
+14. **Advanced Topics**
     - Enumerations
     - Typedef
     - Function Pointers
     - Header Files
 
-14. **Best Practices and Tips**
+15. **Best Practices and Tips**
     - Coding Standards
     - Debugging Techniques
     - Optimization Strategies
 
-15. **Conclusion**
+16. **Conclusion**
     - Summary of Key Concepts
     - Further Learning Resources
 

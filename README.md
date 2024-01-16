@@ -2,7 +2,8 @@
 
 Documenting the full concept of the C programming language is a **substantial task and In depth concepts or kyoki itna hame bhi nhi aata.** However, we can provide you with a brief overview of the fundamental concepts of the C language. Please note that this is not an exhaustive documentation, but a small introduction:
 
-# C Programming Language Documentation
+# C Programming Language Documentation 
+**written with `Yash Joshi` and `Pankaj Rawat.`**
 
 ## Table of Contents
 

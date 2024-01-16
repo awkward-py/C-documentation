@@ -1,5 +1,5 @@
 # <div align="center">C Programming Language Documentation</div>
-### <div align="center">**written with `Yash Joshi` and `Pankaj Rawat.`**</div>
+### <div align="center">written with `Yash Joshi` and `Pankaj Rawat.`</div>
 
 
 

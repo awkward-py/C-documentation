@@ -1,8 +1,9 @@
 # <div align="center">C Programming Language Documentation</div>
+# <div align="center">**written with `Yash Joshi` and `Pankaj Rawat.`**</div>
 
-**written with** <span style="color: #FF00FF; font-weight: bold;">Yash Joshi</span> **and** <span style="color: #00FFFF; font-weight: bold;">Pankaj Rawat.</span>
 
-Documenting the full concept of the C programming language is a <span style="color: #FFA500; font-weight: bold;">substantial task</span> and **In-depth concepts or kyoki itna hame bhi nhi aata.** However, we can provide you with a brief overview of the fundamental concepts of the C language. Please note that this is not an exhaustive documentation, but a small introduction:
+
+Documenting the full concept of the C programming language is a **substantial task and In depth concepts or kyoki itna hame bhi nhi aata.** However, we can provide you with a brief overview of the fundamental concepts of the C language. Please note that this is not an exhaustive documentation, but a small introduction.
 ## Table of Contents
 
 1. **Introduction**

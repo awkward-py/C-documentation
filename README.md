@@ -757,5 +757,3 @@ int multiply(int a, int b) {
 - Online resources: Websites like GeeksforGeeks and tutorials on platforms like Codecademy.
 
 *Note: This documentation provides a basic overview of each topic. For a more in-depth understanding, refer to dedicated learning resources and practice coding regularly.*
-
-*Written with : Yash Joshi, Pankaj Rawat*

@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="display: inline-block; padding: 5px 10px; background-color: #000; color: #fff; font-size: 18px;">
+<span style="display: inline-block; padding: 5px 10px; background-color: #000; color: #fff; font-size: 78px;">
     C Programming Language Documentation
 </span>
 

@@ -108,6 +108,7 @@ C programming language was created by Dennis Ritchie at Bell Laboratories in the
 ### 2. **Basic Structure of a C Program**
 
 #### Comments
+Comments in C are annotations or explanatory notes added to the source code to provide information and context for developers. These comments are not executed as part of the program but serve as human-readable descriptions. They play a crucial role in enhancing code readability, explaining logic, and documenting various aspects of the program. In C, comments can be single-line, starting with `//`, or multi-line, enclosed between `/*` and `*/`. They help programmers understand the purpose of code snippets, making it easier to maintain and collaborate on software projects.
 ```c
 // This is a single-line comment
 

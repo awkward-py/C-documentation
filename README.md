@@ -1,8 +1,9 @@
 <div align="center">
 
-<span style="font-size: 18px;">
-    ![C Programming Language Documentation](https://img.shields.io/badge/C_Programming_Language_Documentation-%23000000?style=flat)
+<span style="display: inline-block; padding: 5px 10px; background-color: #000; color: #fff; font-size: 18px;">
+    C Programming Language Documentation
 </span>
+
 
 
 

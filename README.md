@@ -1,6 +1,6 @@
 # C-documentation
 
-Documenting the full concept of the C programming language is a `substantial task and In depth concepts or kyoki itna hame bhi nhi aata.` However, I can provide you with a brief overview of the fundamental concepts of the C language. Please note that this is not an exhaustive documentation, but a concise introduction:
+Documenting the full concept of the C programming language is a `substantial task and In depth concepts or kyoki itna hame bhi nhi aata.` However, we can provide you with a brief overview of the fundamental concepts of the C language. Please note that this is not an exhaustive documentation, but a small introduction:
 
 # C Programming Language Documentation
 
@@ -88,8 +88,7 @@ Documenting the full concept of the C programming language is a `substantial tas
     - Summary of Key Concepts
     - Further Learning Resources
 
-*Note: The above table of contents is a general outline and may not cover every aspect of the C language. More in-depth resources and practical coding experience are recommended for a thorough understanding.*
-
+*Note: The above table of contents is a general outline and may not cover every aspect of the C language. More in-depth resources and practical coding experience are recommended for a thorough understanding. Baki YouTube se padhna*
 
 ### 1. **Introduction**
 
@@ -649,6 +648,6 @@ int multiply(int a, int b) {
 - Books: "The C Programming Language" by Brian Kernighan and Dennis Ritchie.
 - Online resources: Websites like GeeksforGeeks and tutorials on platforms like Codecademy.
 
-*Note: This documentation provides a brief overview of each topic. For a more in-depth understanding, refer to dedicated learning resources and practice coding regularly.*
+*Note: This documentation provides a basic overview of each topic. For a more in-depth understanding, refer to dedicated learning resources and practice coding regularly.*
 
 *Written with : Yash Joshi, Pankaj Rawat*

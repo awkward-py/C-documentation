@@ -1,6 +1,7 @@
 <div align="center">
 
-# C Programming Language Documentation
+![C Programming Language Documentation](https://img.shields.io/badge/C_Programming_Language_Documentation-%23000000?style=flat)
+
 
 **written with `Yash Joshi` and `Pankaj Rawat.`**
 

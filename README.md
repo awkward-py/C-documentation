@@ -8,6 +8,7 @@ Documenting the full concept of the C programming language is a **substantial ta
 
 </div>
 
+
 ## Table of Contents
 
 1. **Introduction**

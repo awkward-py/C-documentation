@@ -10,6 +10,7 @@ Documenting the full concept of the C programming language is a **substantial ta
 
 ## Table of Contents
 
+
 1. **Introduction**
     - History of C
     - Characteristics of C
